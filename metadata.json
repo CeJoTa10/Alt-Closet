@@ -1,0 +1,6 @@
+{
+  "name": "ALT-CLOSET",
+  "description": "Provador virtual interativo de camisas de times alternativas com separação de ligas, criador de looks híbridos e conselheiro pessoal de estilo guiado por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
