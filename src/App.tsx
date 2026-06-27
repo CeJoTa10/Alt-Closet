@@ -196,7 +196,7 @@ export default function App() {
           muted
           playsInline
           className="absolute inset-0 h-full w-full object-cover opacity-20 select-none pointer-events-none"
-          poster="/src/assets/images/alt_hero_1782593199066.jpg"
+          poster="/images/alt_hero.jpg"
         >
           <source
             src="https://assets.mixkit.co/videos/preview/mixkit-soccer-ball-passing-between-players-on-the-field-34444-large.mp4"
