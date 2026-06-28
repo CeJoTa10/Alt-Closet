@@ -212,7 +212,7 @@ export default function App() {
             ALT-CLOSET
           </h1>
           <p className="mt-3 text-zinc-300 font-sans text-xs sm:text-sm max-w-xl leading-relaxed">
-            Monte looks sagrados combinando camisas de times alternativos divididos por ligas (Brasileirão, Premier League, Ligue 1, Bundesliga, Seleções), adicione acessórios de estilo techwear ou cyberpunk e receba indicações exclusivas de estilo do nosso ALT-BOT Inteligente.
+            Monte looks sagrados combinando camisas de times alternativos divididos por ligas:Brasileirão, Premier League, Ligue 1, Bundesliga, Seleções
           </p>
           <div className="flex gap-3 mt-6">
             <button
@@ -344,7 +344,7 @@ export default function App() {
       <footer className="border-t border-zinc-900 bg-zinc-950 py-6 mt-12">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="font-mono text-5xs text-zinc-600 uppercase tracking-widest">
-            © 2026 ALT-CLOSET. COMPRA TOTALMENTE SEGURA. LIGAS E SELEÇÕES ALTERNATIVAS.
+            © 2026 ALT-CLOSET. COMPRA TOTALMENTE SEGURA. LIGAS E SELEÇÕES ALTERNATIVAS. EM PARCERIA COM ORBITATCH.
           </p>
           <div className="flex gap-4">
             <button onClick={() => setCurrentTab('builder')} className="font-mono text-5xs text-zinc-500 hover:text-white uppercase tracking-wider cursor-pointer">Criador de Looks</button>
